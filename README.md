@@ -38,8 +38,8 @@ It provides an interactive visualization that allows users to explore dominant s
 
 ---
 
-## 🌐 View Interactive Dashboard
-[View on Tableau Public →](https://public.tableau.com/app/profile/dhanalakshmi.kannur.munirathnam/viz/Dhanalakshmi-Kannur-Munirathnam-BIS582Assignment6/Dashboard1](https://public.tableau.com/views/tableau-popular-subcategory-sales/FinalDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 🌐 View Interactive Dashboard  
+[View on Tableau Public →](https://public.tableau.com/views/tableau-popular-subcategory-sales/FinalDashboard?:language=en-US&publish=yes)
 
 ---
 
